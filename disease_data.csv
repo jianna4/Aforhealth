@@ -1,0 +1,33 @@
+Disease,Description,Drugs Used to Treat,Symptom 1,Symptom 2,Symptom 3,Symptom 4,Symptom 5,Symptom 6,Symptom 7
+Addison's Disease,"An adrenal insufficiency causing low levels of adrenal hormones.",Hydrocortisone, Fludrocortisone,Fatigue,Weight loss,Darkened skin,Low blood pressure,Salt cravings,Dizziness,Nausea
+Acute Myeloid Leukemia (AML),"A type of cancer that affects the blood and bone marrow.",Chemotherapy, Stem cell transplant,Fatigue,Frequent infections,Easy bruising,Shortness of breath,Bleeding gums,Pale skin,Bone pain
+Acute Lymphoblastic Leukemia (ALL),"A type of cancer that affects white blood cells.",Chemotherapy, Radiation therapy,Fatigue,Fever,Frequent infections,Bone pain,Swollen lymph nodes,Easy bruising,Pale skin
+Adrenal Gland Tumors,"Tumors that occur in the adrenal glands affecting hormone production.",Surgery, Radiation therapy, Hormonal therapy,Abdominal pain,Weight loss,High blood pressure,Excessive hair growth,Mood changes,Fatigue,Increased thirst
+Aplastic Anemia,"A condition where the bone marrow does not produce enough blood cells.",Blood transfusions, Immunosuppressants,Fatigue,Shortness of breath,Easy bruising,Frequent infections,Pale skin,Dizziness,Headache
+Arrhythmia,"An irregular heartbeat that can be too fast, too slow, or erratic.",Antiarrhythmics, Beta-blockers,Palpitations,Dizziness,Shortness of breath,Fatigue,Chest pain,Fainting,Weakness
+Astigmatism,"A vision condition caused by an irregularly shaped cornea.",Glasses, Contact lenses, Surgery,Blurred vision,Eye strain,Headaches,Difficulty seeing at night,Double vision,Eye discomfort,Sensitivity to light
+Bronchitis,"Inflammation of the bronchial tubes causing coughing and mucus production.",Bronchodilators, Steroids, Cough medicine,Persistent cough,Mucus production,Shortness of breath,Wheezing,Fatigue,Chest discomfort,Sore throat
+Bacterial Vaginosis,"A condition caused by an imbalance of bacteria in the vagina.",Antibiotics,Abnormal discharge,Fishy odor,Itching,Burning sensation,Vaginal irritation,Pain during intercourse,Vaginal redness,
+Benign Prostatic Hyperplasia (BPH),"An enlargement of the prostate gland leading to urinary problems.",Alpha-blockers, 5-alpha-reductase inhibitors,Frequent urination,Difficulty starting urination,Weak urine stream,Incomplete bladder emptying,Urgency to urinate,Nighttime urination,Painful urination,
+Behçet's Disease,"An autoimmune disorder causing blood vessel inflammation.",Corticosteroids, Immunosuppressants,Mouth ulcers,Genital sores,Eye inflammation,Skin lesions,Joint pain,Fatigue,Headaches
+Bell's Palsy,"Sudden, temporary weakness or paralysis on one side of the face.",Corticosteroids, Physical therapy,Facial droop,Difficulty closing the eye,Loss of facial expression,Pain around the jaw or ear,Tearing,Drooling,Loss of taste,
+Bladder Cancer,"Cancer that begins in the bladder's lining.",Surgery, Chemotherapy, Immunotherapy,Blood in urine,Frequent urination,Painful urination,Lower abdominal pain,Back pain,Fatigue,Weight loss,
+Brain Tumors,"Abnormal growths in the brain affecting its function.",Surgery, Radiation therapy, Chemotherapy,Headache,Seizures,Nausea,Vomiting,Changes in vision,Difficulty speaking,Weakness
+Breast Cancer,"Cancer that forms in the cells of the breast.",Surgery, Radiation therapy, Chemotherapy,Lump in breast,Changes in breast shape,Nipple discharge,Breast pain,Swelling in breast,Skin changes,,
+Bursitis,"Inflammation of the bursae, the small fluid-filled sacs that cushion bones.",NSAIDs, Steroid injections, Physical therapy,Joint pain,Swelling,Tenderness,Redness,Limited range of motion,,
+Cachexia,"A severe form of weight loss and muscle wasting associated with chronic illness.",Nutritional supplements, Anti-inflammatory drugs,Weight loss,Muscle wasting,Fatigue,Loss of appetite,,,
+Cardiomyopathy,"Disease of the heart muscle that makes it harder for the heart to pump blood.",ACE inhibitors, Beta-blockers, Diuretics,Shortness of breath,Fatigue,Swelling in legs,Irregular heartbeat,Dizziness,Chest pain,,
+Carpal Tunnel Syndrome,"A condition caused by pressure on the median nerve in the wrist.",Wrist splints, Steroid injections, Surgery,Numbness,Tingling in fingers,Pain in wrist,Weak grip,Swelling in wrist,,
+Cellulitis,"A bacterial skin infection causing redness, swelling, and pain.",Antibiotics,Red, swollen skin,Pain and tenderness,Warmth in the affected area,Fever,Chills,,,
+Chronic Kidney Disease (CKD),"A long-term condition where the kidneys gradually lose their function.",ACE inhibitors, Diuretics, Dialysis,Fatigue,Swelling in legs and feet,Shortness of breath,Nausea and vomiting,Loss of appetite,Itchy skin,,
+Chronic Sinusitis,"Long-term inflammation of the sinuses.",Nasal corticosteroids, Saline nasal irrigation,Nasal congestion,Facial pain,Headaches,Post-nasal drip,Reduced sense of smell,Coughing,,
+Chronic Urticaria,"Persistent hives causing itchy, swollen welts on the skin.",Antihistamines, Corticosteroids,Itchy rash,Swelling,Red welts,Burning sensation,,,
+Chronic Venous Insufficiency,"A condition where the veins in the legs cannot pump enough blood back to the heart.",Compression stockings, Diuretics,Swelling in legs,Pain in legs,Itching,Skin changes,Leg cramps,,,
+Cystic Fibrosis,"A genetic disorder that affects the lungs and digestive system.",CFTR modulators, Pancreatic enzymes,Persistent cough,Thick mucus,Shortness of breath,Digestive problems,Frequent lung infections,,,
+Dystonia,"A movement disorder causing involuntary muscle contractions.",Anticholinergics, Muscle relaxants,Muscle spasms,Abnormal postures,Difficulty with movements,Tremors,,,
+Eczema,"A condition that makes the skin red, inflamed, and itchy.",Topical corticosteroids, Moisturizers,Itchy skin,Red rash,Dry, scaly skin,Skin thickening,Blisters,,,
+Endometrial Cancer,"Cancer that starts in the lining of the uterus.",Surgery, Radiation therapy, Hormonal therapy,Abnormal vaginal bleeding,Pelvic pain,Pain during intercourse,Weight loss,Fatigue,,,
+Epidermolysis Bullosa,"A group of rare genetic conditions that cause the skin to blister and peel.",Wound care, Pain management, Gene therapy,Blisters,Skin fragility,Infection,Painful skin,,,
+Epilepsy,"A neurological disorder characterized by recurrent seizures.",Antiepileptic drugs, Ketogenic diet,Seizures,Loss of consciousness,Aura before seizures,Muscle spasms,Confusion,,,
+Erythema Multiforme,"A skin condition characterized by target-like lesions.",Antihistamines, Corticosteroids,Target-shaped lesions,Itching,Redness,Blisters,,,
+Fibromyalgia,"A condition causing widespread muscle pain and fatigue.",Antidepressants, Anticonvulsants,Widespread muscle pain,Fatigue,Sleep disturbances,Cognitive issues,,,
